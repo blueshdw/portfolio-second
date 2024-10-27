@@ -17,7 +17,7 @@ const Header = () => {
   };
 
   return (
-    <header className="h-12 w-full flex items-center px-4 sm:px-10 md:px-20 lg:px-60 bg-white bg-opacity-70 fixed top-0">
+    <header className="min-h-12 w-full flex items-center px-4 sm:px-10 md:px-20 lg:px-60 bg-[#222034]">
       <nav className="hidden md:block w-full">
         <ul className="flex justify-center gap-8">
           <li className="text-lg font-bold cursor-pointer text-[#055658]">
