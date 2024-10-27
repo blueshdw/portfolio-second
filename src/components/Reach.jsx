@@ -34,8 +34,14 @@ const Reach = () => {
         >
           <img className="cursor-pointer" src={itch} alt="" />
         </a>
-
-        <img className="cursor-pointer" src={linkedin} alt="" />
+        <a
+          href="https://www.linkedin.com/in/sertan-m-okcu-797a53306/?originalSubdomain=tr"
+          rel="noopener noreferrer"
+          target="_blank"
+        >
+          <img className="cursor-pointer" src={linkedin} alt="" />
+        </a>
+        
       </div>
     </div>
   );
