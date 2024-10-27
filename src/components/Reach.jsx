@@ -9,8 +9,8 @@ const Reach = () => {
     window.location.href = "mailto:sertanmokcu@gmail.com";
   };
   return (
-    <div className="h-[100vh]" id="reaches">
-      <h1 className="text-5xl text-[#99C7E8] [text-shadow:_0_4px_8px_rgba(14_165_223_/_0.5)]">
+    <div className="min-h-96" id="reaches">
+      <h1 className="text-5xl 2xl:text-7xl text-[#99C7E8] [text-shadow:_0_4px_8px_rgba(14_165_223_/_0.5)]">
         2 Reach
       </h1>
       <div className="mt-2 flex justify-center items-center flex-wrap gap-4">
