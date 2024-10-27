@@ -20,22 +20,22 @@ const Header = () => {
     <header className="min-h-12 w-full flex items-center px-4 sm:px-10 md:px-20 lg:px-60 bg-[#222034] text-white">
       <nav className="hidden md:block w-full">
         <ul className="flex justify-center gap-8">
-          <li className="text-lg font-bold cursor-pointer text-[#055658]">
+          <li className="text-lg font-bold cursor-pointer ">
             <Link to="home" smooth={true} duration={500}>
               Home
             </Link>
           </li>
-          <li className="text-lg font-bold cursor-pointer text-[#055658]">
+          <li className="text-lg font-bold cursor-pointer ">
             <Link to="ourgames" smooth={true} duration={500}>
               Our Games
             </Link>
           </li>
-          <li className="text-lg font-bold cursor-pointer text-[#055658]">
+          <li className="text-lg font-bold cursor-pointer ">
             <Link to="theteam" smooth={true} duration={500}>
               The Team
             </Link>
           </li>
-          <li className="text-lg font-bold cursor-pointer text-[#055658]">
+          <li className="text-lg font-bold cursor-pointer ">
             <Link to="reaches" smooth={true} duration={500}>
               Reaches
             </Link>
