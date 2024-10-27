@@ -3,7 +3,7 @@ import logo from "../images/logo.jpg";
 
 const Home = () => {
   return (
-    <div id="home" className="w-full h-[100vh] flex items-center justify-center">
+    <div id="home" className="w-full h-[100vh] bg-astreoids1 flex items-center justify-center">
       <img 
         src={logo} 
         alt="Logo" 
@@ -14,3 +14,4 @@ const Home = () => {
 };
 
 export default Home;
+
