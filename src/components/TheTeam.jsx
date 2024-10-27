@@ -23,5 +23,3 @@ const TheTeam = () => {
 };
 
 export default TheTeam;
-
-export default TheTeam;
